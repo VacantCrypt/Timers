@@ -10,7 +10,7 @@ class TimerApp:
 
         self.timers = []
 
-        self.button = tk.Button(master, text="Add Timer (7 mins)", command=self.add_timer)
+        self.button = tk.Button(master, text="Add Timer (7 mins 15 seconds)", command=self.add_timer)
         self.button.pack()
 
         self.timer_display = tk.Label(master, text="Timers:")
@@ -19,7 +19,7 @@ class TimerApp:
         self.update_timers()
 
     def add_timer(self):
-        end_time = time.time() + 7 * 60  # 7 minutes from now
+        end_time = time.time() + (7 * 60) +15  # 7 minutes from now
         self.timers.append(end_time)
 
     def update_timers(self):
