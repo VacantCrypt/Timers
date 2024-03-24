@@ -1,5 +1,5 @@
 Simple Timer Program. 
-  Timers are set for 7 minutes
+  Set timers
   Timers self delete at 0
 
 Added new features in V2 also adding an EXE file for those who do not want to use it as a PY file
