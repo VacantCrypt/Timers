@@ -2,6 +2,8 @@ Simple Timer Program.
   Timers are set for 7 minutes
   Timers self delete at 0
 
+Added new features in V2 also adding an EXE file for those who do not want to use it as a PY file
+
 Open source feel free to do what you want to change it
 
 Currently opens timers window that will stay on top of any screen and a blank cmd window. Right click open with python
