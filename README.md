@@ -2,6 +2,8 @@ Simple Timer Program.
   Set timers
   Timers self delete at 0
 
+I don't know for sure, but im pretty sure V2.1(Sound Version) will not work with MACs. 
+
 Added new features in V2 also adding an EXE file for those who do not want to use it as a PY file
 
 Open source feel free to do what you want to change it
