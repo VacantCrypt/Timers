@@ -4,6 +4,8 @@ Simple Timer Program.
 
 I don't know for sure, but im pretty sure V2.1(Sound Version) will not work with MACs. 
 
+I recommend a short wav file like https://bigsoundbank.com/sound-0339-coin-in-cup-1.html for the sound option. 
+
 Added new features in V2 also adding an EXE file for those who do not want to use it as a PY file
 
 Open source feel free to do what you want to change it
