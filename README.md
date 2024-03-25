@@ -18,6 +18,6 @@ All you need to run it is python which for windows users should be free in the w
 
 I Have not tested on Mac / Lynix 
 
-``If there is enough demand for whatever reason, I could make it an exe file. But I perfer it just be a py file so everyone can read what it is doing. ``
+<strike>If there is enough demand for whatever reason, I could make it an exe file. But I perfer it just be a py file so everyone can read what it is doing.</strike>
 
 Anything that doesn't make sence feel free to reach out in game to TheVacantCrypt Gengod or Fira en Gravonere
