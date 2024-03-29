@@ -2,7 +2,11 @@ Simple Timer Program.
   Set timers
   Timers self delete at 0
 
-I don't know for sure, but im pretty sure V2.1(Sound Version) will not work with MACs. 
+Will generate config file after first time it is ran. 
+
+PY users may have to pip install keyboard
+
+I don't know for sure, but im pretty sure V2.1+(Sound Version) will not work with MACs. 
 
 I recommend a short wav file like https://bigsoundbank.com/sound-0339-coin-in-cup-1.html for the sound option. 
 
